@@ -1,6 +1,8 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  padding: 100px;
+  margin: 20px;
 }
 
 .card {
